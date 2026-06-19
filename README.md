@@ -74,3 +74,13 @@ Enter number to animate (e.g. 3), or 'all' to cycle:
 - Python ≥ 3.9
 - numpy
 - pyvista ≥ 0.46
+
+## 展示
+
+<img width="848" height="611" alt="c40f13f5e27a168d6d0b539d1044b53e" src="https://github.com/user-attachments/assets/3a1bc3ae-00c0-420a-be7d-76144482df90" />
+
+<img width="1009" height="832" alt="061658ade4cd99475d2a7a6cdfc4117c" src="https://github.com/user-attachments/assets/39d79a65-a9e9-4145-add4-ce4c509a1d21" />
+
+<img width="1009" height="812" alt="6602031fb0b07784b79770823e71a00c" src="https://github.com/user-attachments/assets/406918e2-8b81-4888-ac65-32370d2f8987" />
+
+
