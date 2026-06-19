@@ -14,7 +14,7 @@
 
 ```bash
 pip install numpy pyvista
-python liangan.py
+python robotic_arm_3d.py
 ```
 
 ## 交互
